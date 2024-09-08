@@ -15,23 +15,26 @@ This is a project of a simple application of product management developed in Jav
 - PostgreSQL
 - Lombok
 
-  # Environment Configuration
+<br>
 
-  Before you begin, make sure you have the following prerequesities installed:
-  - Java JDK 21 or higher
-  - Maven
-  - PostgreSQL
+# Environment Configuration
+
+Before you begin, make sure you have the following prerequesities installed:
+- Java JDK 21 or higher
+- Maven
+- PostgreSQL
+<br>
  
-  ## Project Struture
+## Project Struture
 
-  **Folders Organization**
+**Folders Organization**
 
-  # The project is organized in the following way
+# The project is organized in the following way
 
-  - `src/main/java`: Contains the source code of the application.
-  - `com.gustabo.desafiocrudorotech.controller`: Application`s controllers
-  - `com.gustabo.desafiocrudorotechservice`: Application`s services
-  - `com.gustabo.desafiocrudorotechrepository`: Application`s repositories
-  - `com.gustabo.desafiocrudorotech.domain`: Aplication`s entity
+- `src/main/java`: Contains the source code of the application.
+- `com.gustabo.desafiocrudorotech.controller`: Application`s controllers
+- `com.gustabo.desafiocrudorotechservice`: Application`s services
+- `com.gustabo.desafiocrudorotechrepository`: Application`s repositories
+- `com.gustabo.desafiocrudorotech.domain`: Aplication`s entity
 
-  ## Features
+## Features
